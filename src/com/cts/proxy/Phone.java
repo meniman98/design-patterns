@@ -1,6 +1,5 @@
 package com.cts.proxy;
 
-import javax.swing.*;
 
 public interface Phone {
 
